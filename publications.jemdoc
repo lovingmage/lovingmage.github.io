@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+
+=== Conference Papers
+
+*Crypt$\epsilon$:Crypto-Assisted Differential Privacy on Untrusted Servers*\n
+Amrita Roy Chowdhury, +Chenghong Wang*, Xi He, Ashwin Machanavajjhala, Someth Jha\n
+Published in /SIGMOD/, 2020\n
+[https://arxiv.org/pdf/1902.07756.pdf \[Paper]\]
+
+*Privacy-preserving Biomedical Data Dissemination via a Hybrid Approach*\n
+*Chenghong Wang*, Yichen Jiang, Zhixuan Wu, Xin Du, Shuang Wang\n
+Publised in /AMIA/, 2018\n
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371369/ \[Paper]\]
+
+*The k-peak decomposition: Mapping the Global Structure of Graphs*\n
+Priya Govindan, *Chenghong Wang*, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan\n
+Published in /WWW/, 2017\n
+[https://dl.acm.org/doi/10.1145/3038912.3052635 \[Paper]\]
+
+
+
+
+
+
+\n
+=== Journal Papers
+
+*ART4SQLi: The ART of SQL Injection Vulnerability Discovery*\n
+Long Zhang, Donghong Zhang, *Chenghong Wang*, Zhenyu Zhang, Jing Zhao\n
+Published in /IEEE Transactions on Reliability/, 2019
+
+*SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol*\n
+Yichen Jiang\+, Jenny Hamer\+, *Chenghong Wang\+*, Xiaoqian Jiang , Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang\n
+Published in /IEEE\/ACM TCBB/, 2019
+
+*PRESAGE: PRivacy-preserving gEnetic testing via SoftwAre Guard Extension*\n
+Feng Chen, *Chenghong Wang*, W. Dai, Xiaoqian Jiang, N. Mohammed, M. Aziz, M. Sadat, Cenk Sahinalp, Kristin Lauter, Shuang Wang\n
+Published in /BMC Medical Genomics 2017/

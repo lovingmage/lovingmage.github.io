@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{talks.html}, nofooter
+== Talks
+
+- /Secure Federated Learning for distributed EHR Dataset via TEE/
+-- West China Hospital., Chengdu, China, August, 2019
+
+- /"Privacy-preserving Biomedical Data Dissemination via a Hybrid Approach"/
+-- Digital Horizon Venture Capital(DHVC), Palo Alto, CA, April, 2018. Invited Talk.
+
+- /"Privacy-preserving patient linkage based on the garbled circuit"/
+-- University of California, San Diego, August 2016. iDash Internship Research Symposium

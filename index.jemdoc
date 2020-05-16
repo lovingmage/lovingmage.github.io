@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Chenghong Wang
+
+~~~
+{}{img_left}{chwang.jpg}{alt text}{178.6px}{267.2px}{IMGLINKTARGET}
+
+
+*Chenghong Wang*
+
+CS Ph.D. Student\n
+Department of Computer Science\n
+Duke University\n
+
+308 Research Dr.\n
+Durham, NC, 27708\n
+
+Contact: cw374@duke.edu 
+~~~
+
+
+== Short Bio
+I am a second-year Ph.D. student in Department of Computer Science at Duke University 
+and I am fortunate to be advised by Prof. [https://users.cs.duke.edu/~ashwin/ Ashwin Machanavajjhala].
+My research interests lie in the area of statistical privacy, applied cryptography and database.
+
+== News
+- *Apr/20* We have launched an inovative project [http://poirot.cs.duke.edu/ Poirot] targeting for providing secure and private contact tracing related to COVID-19 pandemic.
+- *Dec/19* Our work Crypt$\epsilon$ has selected as Spotilight research to be presented at *PriML@NeurIPS19*
+- *Nov/19* Our paper(with Amrita, Xi, Ahsinw and Somesh) "[https://arxiv.org/pdf/1902.07756.pdf Crypt$\epsilon$: Crypto-Assisted Differential Privacy on Untrusted Server]" with has accepted by *SIGMOD20*.
+- *Oct/19* I passed my Research Initial Project exam today, a big milestone for Duke Ph.D. students.
+- *Sept/18* I've joined Duke as a Ph.D. student in Computer Science.
+- *May/18* I am joining Prof. Shoucheng Zhang's Lab in Physics Department, Stanford University as a research scholar starting from May 2018.
