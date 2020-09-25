@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{crypto.html}, nofooter
+== Notes on the Foundations of Cryptography
+
+=== Pseudorandom Generators
+
+==== Computational Indistinguishability & Pseudorandomness
+- Yehuda Lindell's [http://u.cs.biu.ac.il/~lindell/89-856/lecture04-89-856.ps Notes.]
+- Yehuda Lindell's Pseudorandomness [http://u.cs.biu.ac.il/~lindell/89-856/complete-89-856.pdf Notes.] (Section 4.2, 5.1 and 5.2)
+- Sanjam Garg's [https://people.eecs.berkeley.edu/~sanjamg/classes/cs276-fall14/scribe/lec05.pdf Notes.] 

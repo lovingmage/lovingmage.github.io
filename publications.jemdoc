@@ -4,9 +4,9 @@
 === Conference Papers
 
 *Crypt$\epsilon$:Crypto-Assisted Differential Privacy on Untrusted Servers*\n
-Amrita Roy Chowdhury, +Chenghong Wang*, Xi He, Ashwin Machanavajjhala, Someth Jha\n
+Amrita Roy Chowdhury, *Chenghong Wang*, Xi He, Ashwin Machanavajjhala, Someth Jha\n
 Published in /SIGMOD/, 2020\n
-[https://arxiv.org/pdf/1902.07756.pdf \[Paper]\]
+[https://dl.acm.org/doi/10.1145/3318464.3380596 \[Paper]\] [https://arxiv.org/pdf/1902.07756.pdf \[Arxiv]\] [https://priml-workshop.github.io/priml2019/papers/PriML2019_paper_31.pdf \[PriML version]\]
 
 *Privacy-preserving Biomedical Data Dissemination via a Hybrid Approach*\n
 *Chenghong Wang*, Yichen Jiang, Zhixuan Wu, Xin Du, Shuang Wang\n
@@ -17,8 +17,6 @@ Publised in /AMIA/, 2018\n
 Priya Govindan, *Chenghong Wang*, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan\n
 Published in /WWW/, 2017\n
 [https://dl.acm.org/doi/10.1145/3038912.3052635 \[Paper]\]
-
-
 
 
 
