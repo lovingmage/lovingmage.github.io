@@ -1,26 +1,41 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: chwang.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Acting Assistant Professor**\
+Department of Computer Science\
+[Indiana University Bloomington](https://cs.indiana.edu/)\
+700 N Woodlawn Ave, Bloomington, IN 47408\
+**Contact**: cw345 AT duke (dOt) edu
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<div class="contact-icons">
+{% include social.html %}
+</div>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b></b>
+
+I will be joining Department of Computer Science at Indiana University as an assistant professor starting Fall 2023. I receieved my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
+
+
+I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains) and databases. My current research focuses are listed as follows:
+
+- **Encrypted databases**
+- **Private distributed ledgers/ blockchains**
+- **Trustworthy AI systems**
+
+
+<span style="color: red;"> <b>Openings</b>: I am looking for self-motivated students. If you're interested in any of the topics, please drop me an email with your CV</span>
