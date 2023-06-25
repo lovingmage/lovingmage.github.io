@@ -18,7 +18,7 @@ A persistent issue in today's society is that organizations handling private or 
 
 Our aspiration is to architect pragmatic data systems to facilitate the practice of collaborative analytics over confidential data. To accomplish this aim, we delve into the synergistic relationship among **differential privacy**, **cryptography**, and **trusted hardwares** by establishing innovative algorithms and system designs that articulate the interconnection between these spheres, taking into account both theoretical perspectives and pragmatic approaches to systems building.
 
-#### **Featured publications**
+##### **Featured publications**
 - Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala, [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://arxiv.org/abs/2203.05084)\
 *International Conference on Management of Data* (**SIGMOD**), 2022
 
@@ -36,14 +36,14 @@ The *permissionless* property has been recognized as one of the key innovations 
 
 My interests in this area primarily include: (i)Fundamentally understand the privacy implications of existing private blockchains; (ii) Explore principled techniques for designing efficient and robust private blockchains.
 
-#### **Featured publications**
+##### **Featured publications**
 - Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
 *Usenix Security Symposium* (**Security**), 2023
 
 <br>
 
 ## Trustworthy AI/ML systems <a name="ai"></a>
-#### **Featured publications**
+##### **Featured publications**
 - Chenghong Wang+, Jieren Deng+, Xianrui Meng, Yijue Wang, Ji Li, Sheng Lin, Shuo Han, Fei Miao, S. Rajasekaran, C. Ding, [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606)\
 *Empirical Methods in Natural Language Processing* (**EMNLP Oral**), 2021
 
