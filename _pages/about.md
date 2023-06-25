@@ -33,9 +33,9 @@ I will be joining Department of Computer Science at Indiana University as an ass
 
 I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains) and databases. My current research focuses are listed as follows:
 
-- [Encrypted databases](#)
-- [Private distributed ledgers/ blockchains](#)
-- [Trustworthy AI systems](#)
+- [Privacy-aware data systems](/projects/#dbms)
+- [Private distributed ledgers/ blockchains](/projects/#blockchain)
+- [Trustworthy AI/ML systems](/projects/#ai)
 
 
 **I am looking for self-motivated students starting Fall 2023. If you're interested in any of the topics, please drop me an email with your CV. More details can be found [here](#).**
