@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**Acting Assistant Professor**\
+**(Incoming) Assistant Professor**\
 Department of Computer Science\
 [Indiana University Bloomington](https://cs.indiana.edu/)\
 700 N Woodlawn Ave, Bloomington, IN 47408\
@@ -33,9 +33,9 @@ I will be joining Department of Computer Science at Indiana University as an ass
 
 I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains) and databases. My current research focuses are listed as follows:
 
-- **Encrypted databases**
-- **Private distributed ledgers/ blockchains**
-- **Trustworthy AI systems**
+- [Encrypted databases](#)
+- [Private distributed ledgers/ blockchains](#)
+- [Trustworthy AI systems](#)
 
 
-<span style="color: red;"> <b>Openings</b>: I am looking for self-motivated students. If you're interested in any of the topics, please drop me an email with your CV</span>
+**I am looking for self-motivated students starting Fall 2023. If you're interested in any of the topics, please drop me an email with your CV. More details can be found [here](#).**

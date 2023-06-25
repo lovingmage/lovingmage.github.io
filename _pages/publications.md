@@ -9,13 +9,6 @@ nav_order: 1
 ---
 
 <hr>
-#### **Manuscripts**
-
-- **M1**. Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu, [DyQuantNN: High Performance Private Deep Neural Networks on FPGA with Dynamic Quantization](#)\
-Under Review, 2023
-
-
-<hr>
 #### **Conference**
 
 - **C9**. Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
