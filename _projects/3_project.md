@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
+title: Trustworthy AI/ML systems
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: 
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Privacy-aware data systems
+description: Our aspiration is to architect pragmatic data systems to facilitate the practice of collaborative analytics over confidential data, i.e. health records, banking/finance transactions, defense industry data, etc. To accomplish this aim, we delve into the synergistic relationship between differential privacy and cryptography by establishing innovative algorithms and system designs that articulate the interconnection between these two spheres, taking into account both theoretical perspectives and pragmatic approaches to systems building.
+img: 
 importance: 1
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
