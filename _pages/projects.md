@@ -32,7 +32,7 @@ Our aspiration is to architect pragmatic data systems to facilitate the practice
 
 ## Private distributed ledgers/ blockchains <a name="blockchain"></a>
 
-The *permissionless* property has been recognized as one of the key innovations of morden blockchain techniques. However, this inherent open setup has inevitably led to numerous privacy concerns, i.e. everyone can obseve each other's transactions, subsequently attracting enough criticism. A new type of **private** blockchains are proposed that hides transaction details with **cryptographic primitives** while leveraging **zero-knowledge proofs** for validating transactions and upholding blockchain functionalities. 
+The *permissionless* property has been recognized as one of the key innovations of modern blockchain techniques. However, this inherent open setup has inevitably led to numerous privacy concerns, i.e. everyone can obseve each other's transactions. **Private blockchains**, such as Zcash, are proposed to address this issue, which hides transaction details with **cryptographic primitives** while leveraging **zero-knowledge proofs** for validating transactions and upholding blockchain functionalities. 
 
 My interests in this area primarily include: (i)Fundamentally understand the privacy implications of existing private blockchains; (ii) Explore principled techniques for designing efficient and robust private blockchains.
 
