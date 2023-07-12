@@ -38,4 +38,4 @@ I am generally interested in applied cryptography, differential privacy, distrib
 - [Trustworthy AI/ML systems](/projects/#ai)
 
 
-**I am looking for self-motivated students starting Fall 2023. If you're interested in any of the topics, please drop me an email with your CV. More details can be found [here](#).**
+**I am looking for self-motivated students starting Fall 2023. If you're interested in any of the topics, please drop me an email with your CV.**
