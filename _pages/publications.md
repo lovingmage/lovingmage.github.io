@@ -15,7 +15,7 @@ nav_order: 1
 *Usenix Security Symposium* (**Security**), 2023
 
 - **C10**. Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tong Geng, Kaleel Mahmood , Wujie Wen, Xiaolin Xu, Caiwen Ding, [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#)\
-*International Conference on Computer Vision * (**ICCV**), 2023
+*International Conference on Computer Vision* (**ICCV**), 2023
 
 - **C9**. Hongwu Peng, Shanglin Zhou, Yukui Luo, Nuo Xu, Shijin Duan, Ran Ran, Jiahui Zhao, Chenghong Wang, Tong Geng, Wujie Wen, Xiaolin Xu, Caiwen Ding, [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513.pdf)\
 *Design Automation Conference* (**DAC**), 2023
