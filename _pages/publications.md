@@ -11,8 +11,14 @@ nav_order: 1
 <hr>
 #### **Conference**
 
-- **C9**. Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
+- **C11**. Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
 *Usenix Security Symposium* (**Security**), 2023
+
+- **C10**. Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tong Geng, Kaleel Mahmood , Wujie Wen, Xiaolin Xu, Caiwen Ding, [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#)\
+*International Conference on Computer Vision * (**ICCV**), 2023
+
+- **C9**. Hongwu Peng, Shanglin Zhou, Yukui Luo, Nuo Xu, Shijin Duan, Ran Ran, Jiahui Zhao, Chenghong Wang, Tong Geng, Wujie Wen, Xiaolin Xu, Caiwen Ding, [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513.pdf)\
+*Design Automation Conference* (**DAC**), 2023
 
 - **C8**. Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala, [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://arxiv.org/abs/2203.05084)\
 *International Conference on Management of Data* (**SIGMOD**), 2022
