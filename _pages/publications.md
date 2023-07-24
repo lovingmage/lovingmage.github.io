@@ -14,6 +14,9 @@ nav_order: 1
 - **C11**. Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
 *Usenix Security Symposium* (**Security**), 2023
 
+- **C11**. Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang (Duke University), Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu, [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)\
+*International Symposium on Microarchitecture (**MICRO**)*, 2023
+  
 - **C10**. Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tong Geng, Kaleel Mahmood , Wujie Wen, Xiaolin Xu, Caiwen Ding, [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#)\
 *International Conference on Computer Vision* (**ICCV**), 2023
 
