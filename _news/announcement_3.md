@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper (with Yukui et. al.), [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#) has been accepted by *MICRO 24'*.
+Our paper (with Yukui et. al.), [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#) has been accepted by **MICRO 24**.
