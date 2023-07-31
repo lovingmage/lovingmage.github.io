@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /projects/
-description: The collections of my current research focus, outcomes and highlights
+description: 
 nav: true
 nav_order: 2
 horizontal: false
