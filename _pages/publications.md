@@ -9,13 +9,14 @@ nav_order: 1
 ---
 
 <hr>
+
 #### **Conference**
 
 - **C12**. Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
 *Usenix Security Symposium* (**Security**), 2023
 
 - **C11**. Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu, [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)\
-*International Symposium on Microarchitecture (**MICRO**)*, 2023
+*International Symposium on Microarchitecture* (**MICRO**), 2023
   
 - **C10**. Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tong Geng, Kaleel Mahmood , Wujie Wen, Xiaolin Xu, Caiwen Ding, [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#)\
 *International Conference on Computer Vision* (**ICCV**), 2023
@@ -47,6 +48,8 @@ nav_order: 1
 - **C1**. Priya Govindan, Chenghong Wang, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan, [The k-peak decomposition: Mapping the Global Structure of Graphs](https://dl.acm.org/doi/10.1145/3038912.3052635)\
 *The Web Conference* (**WWW**), 2017
 
+<br>
+
 #### **Journal**
 
 - **J3**. Zeinab S. Jalali, Chenghong Wang, Griffin Kearney, Geng Yuan, Caiwen Ding, Yinan Zhou, Yanzhi Wang, Sucheta Soundarajan, [Memristor-Based Spectral Decomposition of Matrices and Its Applications.](https://ieeexplore.ieee.org/document/9869704/)\
@@ -58,3 +61,7 @@ nav_order: 1
 
 - **J1**. F. Chen, C. Wang, W. Dai, X. Jiang, N. Mohammed, M. Aziz, M. Sadat, C. Sahinalp, K. Lauter, S. Wang, [PRESAGE: PRivacy-preserving gEnetic testing via SoftwAre Guard Extension](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0281-2)\
 *BMC Medical Genomics*, 2017
+
+<br>
+
+For the complete list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=92DM_CQAAAAJ&hl=en) 
