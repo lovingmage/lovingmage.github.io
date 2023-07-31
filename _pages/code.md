@@ -13,7 +13,7 @@ nav_order: 6
 - **[PASNet (non-fpga)](https://github.com/HarveyP123/PASNet-DAC2023).** Implementation of PASNet algorithm (without fpga accerlation), with evaluation code on PASNet-A (ResNet18 as backbone), PASNet-B and PASNet-C (ResNet50 as backbone), PASNet-D (MobileNetV2 as backbone) on imagenet.
 
 - **[IncShrink](#).** A secure outsourced database framework for dynamically growing data that supports private materializations and view-based query answering.
-   > *(We're currently reforging IncShrink with TF Encrypted. The official release is coming soon.*
+   > *We're currently reforging IncShrink with TF Encrypted. The official release is coming soon.*
 
 - **[Crypt-epsilon](https://github.com/lovingmage/crypte).** Crypto-Assisted Differential Privacy on Untrusted Servers.
 
