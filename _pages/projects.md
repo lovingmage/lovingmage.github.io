@@ -41,6 +41,7 @@ My interests in this area primarily include: (i)Fundamentally understand the pri
 *Usenix Security Symposium* (**Security**), 2023
 
 **Check out our latest posts on Decentralized Thoughts, [part1](https://decentralizedthoughts.github.io/2023-07-21-ppos1/), [part2](https://decentralizedthoughts.github.io/2023-07-21-ppos2/), and our talks on [Zcon4](https://www.youtube.com/live/DMiw7m2Ku78?feature=share&t=9316) and [CESC23](https://www.youtube.com/watch?t=6635&v=q9-xxy43BnM&feature=youtu.be)**
+
 <br>
 
 ## Trustworthy AI/ML systems <a name="ai"></a>
