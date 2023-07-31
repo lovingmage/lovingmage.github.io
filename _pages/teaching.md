@@ -6,8 +6,10 @@ description:
 nav: true
 nav_order: 5
 ---
+### Indiana University
+* Fall 2023 - **CSCI-B561**: [Advanced-Database-Concepts](#)
 
-* **CSCI-B561**: [Advanced-Database-Concepts](#), *Fall 2023*, Indiana University
-* **CompSci-351**: Computer Security, *Fall 2020*, Duke University
-* **CompSci-310**: Operating System, *Fall 2019*, Duke University
-* **CompSci-290**: Everything Data,*Spring 2019*, Duke University
+### Duke University
+* Fall 2020 - **CompSci-351**: Computer Security
+* Fall 2019 - **CompSci-310**: Operating System
+* Spring 2019 - **CompSci-290**: Everything Data
