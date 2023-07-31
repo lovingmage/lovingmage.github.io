@@ -32,7 +32,7 @@ Our aspiration is to architect pragmatic data systems to facilitate the practice
 
 ## Private distributed ledgers/ blockchains <a name="blockchain"></a>
 
-The *permissionless* property has been recognized as one of the key innovations of modern blockchain techniques. However, this inherent open setup has inevitably led to numerous privacy concerns, i.e. everyone can obseve each other's transactions. **Private blockchains**, such as Zcash, are proposed to address this issue, which hides transaction details with **cryptographic primitives** while leveraging **zero-knowledge proofs** for validating transactions and upholding blockchain functionalities. 
+The *permissionless* property has been recognized as one of the key innovations of modern blockchain techniques. However, this inherent open setup has inevitably led to numerous privacy concerns, i.e. everyone can obseve each other's transactions. **Private blockchains**, such as Zcash, are proposed to address this issue, which hide transaction details with **cryptographic primitives** while leveraging **zero-knowledge proofs** for validating transactions and upholding blockchain functionalities. 
 
 My interests in this area primarily include: (i)Fundamentally understand the privacy implications of existing private blockchains; (ii) Explore principled techniques for designing efficient and robust private blockchains.
 
@@ -40,6 +40,7 @@ My interests in this area primarily include: (i)Fundamentally understand the pri
 - Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala, [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
 *Usenix Security Symposium* (**Security**), 2023
 
+**Check out our latest posts on Decentralized Thoughts, [part1](https://decentralizedthoughts.github.io/2023-07-21-ppos1/), [part2](https://decentralizedthoughts.github.io/2023-07-21-ppos2/), and our talks on [Zcon4](https://www.youtube.com/live/DMiw7m2Ku78?feature=share&t=9316) and [CESC23](https://www.youtube.com/watch?t=6635&v=q9-xxy43BnM&feature=youtu.be)**
 <br>
 
 ## Trustworthy AI/ML systems <a name="ai"></a>
