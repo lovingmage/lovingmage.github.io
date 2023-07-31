@@ -2,7 +2,7 @@
 layout: page
 title: Code
 permalink: /code/
-description: Collections of open-source artifacts
+description: 
 nav: true
 nav_order: 6
 ---
