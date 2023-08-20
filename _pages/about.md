@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 **(Incoming) Assistant Professor**\
 Department of Computer Science\
 [Indiana University Bloomington](https://cs.indiana.edu/)\
-700 N Woodlawn Ave, Bloomington, IN 47408\
-**Contact**: cw345 AT duke (dOt) edu
+3054 Luddy Hall, Bloomington, IN 47408\
+**Contact**: cw166 AT iu (dOt) edu
 
 <div class="contact-icons">
 {% include social.html %}
@@ -30,10 +30,10 @@ Department of Computer Science\
 
 <b></b>
 
-I will be joining Department of Computer Science at Indiana University as an assistant professor starting Fall 2023. I receieved my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
+I will be joining the Department of Computer Science at Indiana University as an assistant professor starting in Fall 2023. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
 
-I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains) and databases. My current research focuses are listed as follows:
+I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains), and databases. My current research focuses are listed as follows:
 
 - [Privacy-aware data systems](/projects/#dbms)
 - [Private distributed ledgers/ blockchains](/projects/#blockchain)
