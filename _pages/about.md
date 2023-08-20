@@ -26,6 +26,8 @@ Department of Computer Science\
 {% include social.html %}
 </div>
 
+[Curriculum Vitae (Updated by Jul 2023)](https://drive.google.com/file/d/1CMdeAb2MwziHwk7GUZBaCBY0g55s0w1C/view?usp=drive_link)
+
 <b></b>
 
 I will be joining Department of Computer Science at Indiana University as an assistant professor starting Fall 2023. I receieved my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
