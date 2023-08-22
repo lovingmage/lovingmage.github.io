@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-**(Incoming) Assistant Professor**\
+**Assistant Professor**\
 Department of Computer Science\
 [Indiana University Bloomington](https://cs.indiana.edu/)\
 3054 Luddy Hall, Bloomington, IN 47408\
@@ -30,7 +30,7 @@ Department of Computer Science\
 
 <b></b>
 
-I will be joining the Department of Computer Science at Indiana University as an assistant professor starting in Fall 2023. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
+I am an assistant professor in the Department of Computer Science at Indiana University. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
 
 I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains), and databases. My current research focuses are listed as follows:
@@ -39,4 +39,4 @@ I am generally interested in applied cryptography, differential privacy, distrib
 - [Private distributed ledgers/ blockchains](/projects/#blockchain)
 - [Trustworthy AI/ML systems](/projects/#ai)
 
-<span style="color:blue"> **I am looking for self-motivated students starting Fall 2023, with multiple fully-funded RA positions available. If any of the research topics capture your interest, feel free to drop me an email along with your CV.** </span>
+<span style="color:blue"> **I am looking for self-motivated students starting Fall 2023, with multiple fully-funded RA positions available. If any of the research topics capture your interest, feel free to drop me an email along with your CV. More details can be found [here](https://www.lovingmage.com/blog/2023/phd-ra/)** </span>
