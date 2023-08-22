@@ -8,7 +8,6 @@ categories: misc
 giscus_comments: false
 related_posts: true
 ---
-## Fully Funded Ph.D. RA Positions Available
 
 We are actively seeking self-motivated students to join our team starting in Fall 2023. Multiple fully funded Ph.D. RA positions are up for grabs in our group. Discover more about our impactful work [here](https://www.lovingmage.com/projects/).
 
