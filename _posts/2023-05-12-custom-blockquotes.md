@@ -1,111 +1,36 @@
 ---
 layout: post
-title: a post with custom blockquotes
-date: 2023-05-12 15:53:00-0400
+title: Fully Funded Ph.D. RA Positions Available
+date: 2023-08-22 12:53:00-0400
 tags: general
-description: an example of a blog post with custom blockquotes
+description:
 categories: misc
 giscus_comments: false
 related_posts: true
 ---
-This post shows how to add custom styles for blockquotes. Based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) implementation.
+## Fully Funded Ph.D. RA Positions Available
 
-We decided to support the same custom blockquotes as in [jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-06-30-tips_warnings_dangers.html), which are also found in a lot of other sites' styles. The styles definitions can be found on the [_base.scss](https://github.com/alshedivat/al-folio/blob/master/_sass/_base.scss) file, more specifically:
+We are actively seeking self-motivated students to join our team starting in Fall 2023. Multiple fully funded Ph.D. RA positions are up for grabs in our group. Discover more about our impactful work [here](https://www.lovingmage.com/projects/).
 
-```scss
-/* Tips, warnings, and dangers */
-.post .post-content blockquote {
-    &.block-tip {
-    border-color: var(--global-tip-block);
-    background-color: var(--global-tip-block-bg);
+#### Key qualities I expect my prospective students:
 
-    p {
-      color: var(--global-tip-block-text);
-    }
+1. Strong self-motivation, responsible, and reliable (**most important**).
+2. Enthusiasm for building secure computing systems that harness the synergy of cryptography, differential privacy, and trusted hardware.
+3. Proficiency in programming.
+4. Good foundation in mathematics.
 
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-tip-block-title);
-    }
-  }
+#### Desirable, but not essential:
 
-  &.block-warning {
-    border-color: var(--global-warning-block);
-    background-color: var(--global-warning-block-bg);
+1. Backgrounds in applied crypto, differential privacy, MPC, or trusted hardware. (Though, I began my Ph.D. without any knowledge of these.)
+2. Experience in real system design and implementation.
 
-    p {
-      color: var(--global-warning-block-text);
-    }
+Prospective students are encouraged to send their CVs, along with a short self-introduction and any pertinent materials, to Chenghong at cw166 @ iu.edu. Please include **[Prospective Ph.D. Student]** in the tile of your email.
 
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-warning-block-title);
-    }
-  }
+> Though at the moment, I am actively recruiting new Ph.D. students. If you're an M.S. student, undergraduate, or an already admitted Ph.D. student at IU and would like to work with me. Feel free to email me or visit my office for a chat.
 
-  &.block-danger {
-    border-color: var(--global-danger-block);
-    background-color: var(--global-danger-block-bg);
+### About IU Security & Privacy:
+IU Security & Privacy proudly stands **10th** among all universities in the U.S. and **13th** globally, as ranked by [CSRanking](https://csrankings.org/#/index?sec&us).
 
-    p {
-      color: var(--global-danger-block-text);
-    }
 
-    h1, h2, h3, h4, h5, h6 {
-      color: var(--global-danger-block-title);
-    }
-  }
-}
-```
 
-A regular blockquote can be used as following:
 
-```markdown
-> This is a regular blockquote
-> and it can be used as usual
-```
-
-> This is a regular blockquote
-> and it can be used as usual
-
-These custom styles can be used by adding the specific class to the blockquote, as follows:
-
-```markdown
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-```
-
-> ##### TIP
->
-> A tip can be used when you want to give advice
-> related to a certain content.
-{: .block-tip }
-
-```markdown
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-```
-
-> ##### WARNING
->
-> This is a warning, and thus should
-> be used when you want to warn the user
-{: .block-warning }
-
-```markdown
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
-```
-
-> ##### DANGER
->
-> This is a danger zone, and thus should
-> be used carefully
-{: .block-danger }
