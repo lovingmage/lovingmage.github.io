@@ -43,7 +43,7 @@ Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sangutheva
 *Empirical Methods in Natural Language Processing* (**EMNLP**), 2021
 
 - **C5**. [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606)\
-Chenghong Wang+, Jieren Deng+, Xianrui Meng, Yijue Wang, Ji Li, Sheng Lin, Shuo Han, Fei Miao, S. Rajasekaran, C. Ding
+Chenghong Wang+, Jieren Deng+, Xianrui Meng, Yijue Wang, Ji Li, Sheng Lin, Shuo Han, Fei Miao, S. Rajasekaran, C. Ding\
 *Empirical Methods in Natural Language Processing* (**EMNLP Oral**), 2021
 
 - **C4**. [Against Membership Inference Attack: Pruning is All You Need](https://arxiv.org/abs/2008.13578)\
