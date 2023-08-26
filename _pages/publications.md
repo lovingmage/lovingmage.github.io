@@ -61,21 +61,24 @@ Chenghong Wang+, Yichen Jiang+, Zhixuan Wu, Xin Du, Shuang Wang\
 *American Medical Informatics Association* (**AMIA**), 2018
 
 - **C1**. [The k-peak decomposition: Mapping the Global Structure of Graphs](https://dl.acm.org/doi/10.1145/3038912.3052635)\
-Priya Govindan, Chenghong Wang, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan
+Priya Govindan, Chenghong Wang, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan\
 *The Web Conference* (**WWW**), 2017
 
 <br>
 
 ### **Journal**
 
-- **J3**. Zeinab S. Jalali, Chenghong Wang, Griffin Kearney, Geng Yuan, Caiwen Ding, Yinan Zhou, Yanzhi Wang, Sucheta Soundarajan, [Memristor-Based Spectral Decomposition of Matrices and Its Applications.](https://ieeexplore.ieee.org/document/9869704/)\
+- **J3**. [Memristor-Based Spectral Decomposition of Matrices and Its Applications.](https://ieeexplore.ieee.org/document/9869704/)\
+Zeinab S. Jalali, Chenghong Wang, Griffin Kearney, Geng Yuan, Caiwen Ding, Yinan Zhou, Yanzhi Wang, Sucheta Soundarajan\
 *IEEE Transactions on Computers*, 2022 
 
 
-- **J2**. Yichen Jiang+, Jenny Hamer+, Chenghong Wang+, Xiaoqian Jiang , Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang, [SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol](https://ieeexplore.ieee.org/document/8355587)\
+- **J2**. [SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol](https://ieeexplore.ieee.org/document/8355587)\
+Yichen Jiang+, Jenny Hamer+, Chenghong Wang+, Xiaoqian Jiang , Miran Kim, Yongsoo Song, Yuhou Xia, Noman Mohammed, Md Nazmus Sadat, Shuang Wang\
 *IEEE/ACM Transactions on Computational Biology and Bioinformatics*, 2018
 
-- **J1**. F. Chen, C. Wang, W. Dai, X. Jiang, N. Mohammed, M. Aziz, M. Sadat, C. Sahinalp, K. Lauter, S. Wang, [PRESAGE: PRivacy-preserving gEnetic testing via SoftwAre Guard Extension](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0281-2)\
+- **J1**. [PRESAGE: PRivacy-preserving gEnetic testing via SoftwAre Guard Extension](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0281-2)\
+F. Chen, C. Wang, W. Dai, X. Jiang, N. Mohammed, M. Aziz, M. Sadat, C. Sahinalp, K. Lauter, S. Wang\
 *BMC Medical Genomics*, 2017
 
 <br>
