@@ -18,11 +18,8 @@ A persistent issue in today's society is that organizations handling private or 
 Our aspiration is to architect pragmatic data systems to facilitate the practice of collaborative analytics over confidential data. To accomplish this aim, we delve into the synergistic relationship among **differential privacy**, **cryptography**, and **trusted hardwares** by establishing innovative algorithms and system designs that articulate the interconnection between these spheres, taking into account both theoretical perspectives and pragmatic approaches to systems building.
 
 ##### **Featured publications**
-
 - [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://arxiv.org/abs/2203.05084)  (**SIGMOD**), 2022
-
 - [DP-Sync: Hiding Update Patterns in Secure Outsourced Databases with Differential Privacy](https://arxiv.org/abs/2103.15942) (**SIGMOD**), 2021
-
 - [Crypt$\epsilon$:Crypto-Assisted Differential Privacy on Untrusted Servers](https://dl.acm.org/doi/10.1145/3318464.3380596) (**SIGMOD**), 2020
 
 <br>
@@ -45,11 +42,8 @@ My interests in this area primarily include: (i)Fundamentally understand the pri
 My current research focuses on novel algorithms and hardware co-design for accelerating privacy-preserving machine learning, aiming to facilitate the practical deployment of PPML across various industries that interact with sensitive data, such as healthcare, biomedicine, banking, finance, etc.
 
 ##### **Featured publications**
-
-- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#) (**MICRO**), 2023
-  
+- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)(**MICRO**), 2023
 - [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#) (**ICCV**), 2023
-
-- [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606) (**EMNLP**), 2021
+- [Against Membership Inference Attack: Pruning is All You Need](https://arxiv.org/abs/2008.13578) (**IJCAI**), 2021
 
 <br>
