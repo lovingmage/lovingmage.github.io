@@ -37,6 +37,6 @@ I am generally interested in applied cryptography, differential privacy, distrib
 
 - [Privacy-aware data systems](/projects/#dbms)
 - [Private distributed ledgers/ blockchains](/projects/#blockchain)
-- [Trustworthy AI/ML systems](/projects/#ai)
+- [Secure and Trustworthy AI/ML systems](/projects/#ai)
 
 <span style="color:blue"> **I am looking for self-motivated students starting Fall 2023, with multiple fully-funded RA positions available. If any of the research topics capture your interest, feel free to drop me an email along with your CV. More details can be found [here](https://www.lovingmage.com/blog/2023/phd-ra/)** </span>
