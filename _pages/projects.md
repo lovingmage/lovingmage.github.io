@@ -10,7 +10,7 @@ horizontal: false
 
 1. [Privacy-aware data systems](#dbms)
 2. [Private distributed ledgers/ blockchains](#blockchain)
-3. [Trustworthy AI/ML systems](#ai)
+3. [Secure and Trustworthy AI/ML systems](#ai)
 
 ## Privacy-aware data systems <a name="dbms"></a>
 A persistent issue in today's society is that organizations handling private or sensitive data, i.e. health records, banking transactions, defense industry and military data etc, strive to engage in collaborative data analysis, but they are restricted from sharing it. 
@@ -37,7 +37,7 @@ My interests in this area primarily include: (i)Fundamentally understand the pri
 
 <br>
 
-## Trustworthy AI/ML systems <a name="ai"></a>
+## Secure and Trustworthy AI/ML systems <a name="ai"></a>
 
 My current research focuses on novel algorithms and hardware co-design for accelerating privacy-preserving machine learning, aiming to facilitate the practical deployment of PPML across various industries that interact with sensitive data, such as healthcare, biomedicine, banking, finance, etc.
 
