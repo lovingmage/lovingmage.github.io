@@ -12,6 +12,10 @@ nav_order: 1
 
 ### **Conference**
 **2023**
+- **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#)
+Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
+*Neural Information Processing Systems* (**NeurIPS 2023**), 2023
+
 - **C12**. [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
 Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala\
 *Usenix Security Symposium* (**Security**), 2023
