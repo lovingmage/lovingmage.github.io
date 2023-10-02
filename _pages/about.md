@@ -33,10 +33,11 @@ Department of Computer Science\
 I am an assistant professor in the Department of Computer Science at Indiana University. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
 
-I am generally interested in applied cryptography, differential privacy, distributed systems(blockchains), and databases. My current research focuses are listed as follows:
+I have a keen interest in the synergy of cryptography and differential privacy, particularly when harnessed to architect large-scale systems for the management, computation, and learning over confidential data. My current research focuses are listed as follows:
 
-- [Privacy-aware data systems](/projects/#dbms)
-- [Private distributed ledgers/ blockchains](/projects/#blockchain)
+- [Encrypted databases](/projects/#dbms)
 - [Secure and Trustworthy AI/ML systems](/projects/#ai)
+- [Private distributed systems/ blockchains](/projects/#blockchain)
+
 
 <span style="color:blue"> **I am looking for self-motivated students starting Fall 2023, with multiple fully-funded RA positions available. If any of the research topics capture your interest, feel free to drop me an email along with your CV. More details can be found [here](https://www.lovingmage.com/blog/2023/phd-ra/)** </span>
