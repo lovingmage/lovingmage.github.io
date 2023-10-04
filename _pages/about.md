@@ -30,7 +30,7 @@ Department of Computer Science\
 
 <b></b>
 
-I am an assistant professor in the Department of Computer Science at Indiana University. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
+I am an assistant professor in the Department of Computer Science at Indiana University. I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
 
 I have a keen interest in the synergy of cryptography and differential privacy, particularly when harnessed to architect large-scale systems for the management, computation, and learning over confidential data. My current research focuses are listed as follows:
