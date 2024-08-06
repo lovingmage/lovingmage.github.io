@@ -33,11 +33,16 @@ Department of Computer Science\
 I am an assistant professor in the Department of Computer Science at Indiana University. I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
 
-I have a keen interest in the synergy of cryptography and differential privacy, particularly when harnessed to architect large-scale systems for the management, computation, and learning over confidential data. My current research focuses are listed as follows:
+My research focuses on developing full-stack solutions for privacy-preserving data sharing and analytics (PPDSA), which spans theory, systems, and architecture advancements, with the ultimate goal of embracing secure and private data liberation. Specifically, my current research can be summarized as follows:
 
-- [Encrypted databases](/projects/#dbms)
-- [Secure and Trustworthy AI/ML systems](/projects/#ai)
-- [Private distributed systems/ blockchains](/projects/#blockchain)
+- **Theory**
+  - PAC based privacy methods ([Usenix 23](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong))
+  - Synergy of cryptography and differential privacy ([SIGMOD 20](https://arxiv.org/abs/1902.07756), [21](https://arxiv.org/abs/2103.15942), [22](https://arxiv.org/abs/2203.05084))
+- **Systems**
+  - Private data federation and encrypted databases ([IncShrink](https://arxiv.org/abs/2203.05084), [Special](https://arxiv.org/pdf/2404.18388), [FL-NLP](https://aclanthology.org/2021.emnlp-main.606/))
+  - Learning-augumented PPDSA systems
+- **Architecture**
+  - Leakage-resistant TEEs (Micro-architecture and ISA)
+  - Hardware acceleration and synthesis for PPDSA ([MICRO 23](https://dl.acm.org/doi/10.1145/3613424.3614297), [NeurIPS 23](https://arxiv.org/abs/2309.14331), [DAC 23](https://arxiv.org/abs/2306.15513), [ICCV 23](https://arxiv.org/abs/2308.10134))
 
-
-<span style="color:blue"> **I am looking for self-motivated students starting Fall 2023, with multiple fully-funded RA positions available. If any of the research topics capture your interest, feel free to drop me an email along with your CV. More details can be found [here](https://www.lovingmage.com/blog/2023/phd-ra/)** </span>
+<span style="color:blue"> **I am looking for (i) Ph.D. students with fully-funded RAs; (ii) Postdocs. If any of the research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/blog/2023/phd-ra/)** </span>
