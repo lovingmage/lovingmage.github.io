@@ -33,7 +33,7 @@ Department of Computer Science\
 I am an assistant professor in the Department of Computer Science at Indiana University. I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
 
-My research focuses on developing full-stack solutions for privacy-preserving data sharing and analytics (PPDSA), which spans theory, systems, and architecture advancements, with the ultimate goal of embracing secure and private data liberation. Specifically, my current research can be summarized as follows:
+My research focuses on developing full-stack solutions for privacy-preserving data sharing and analytics (PPDSA), which spans theory, systems, and architecture advancements. Specifically, my current current research can be summarized as follows:
 
 - **Theory**
   - PAC based privacy methods ([Usenix 23](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong))
