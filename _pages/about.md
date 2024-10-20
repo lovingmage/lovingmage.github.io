@@ -45,4 +45,4 @@ My research focuses on developing full-stack solutions for privacy-preserving da
   - Leakage-resistant TEEs (Micro-architecture and ISA)
   - Hardware acceleration and synthesis for PPDSA ([MICRO 23](https://dl.acm.org/doi/10.1145/3613424.3614297), [NeurIPS 23](https://arxiv.org/abs/2309.14331), [DAC 23](https://arxiv.org/abs/2306.15513), [ICCV 23](https://arxiv.org/abs/2308.10134))
 
-<span style="color:blue"> **I am looking for (i) Ph.D. students with fully-funded RAs; (ii) Postdocs. If any of the research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/blog/2023/phd-ra/)** </span>
+<span style="color:blue"> **I am looking for (i) Ph.D. students with fully-funded RAs; (ii) Postdocs. If any of the research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/students/)** </span>
