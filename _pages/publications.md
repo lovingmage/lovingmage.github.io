@@ -11,6 +11,11 @@ nav_order: 1
 <hr>
 
 ### **Conference**
+**2024**
+- **C14**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
+Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo\
+(**In minor revision**)
+
 **2023**
 - **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#)\
 Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, S. Huang, K. Thorat, T. Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
