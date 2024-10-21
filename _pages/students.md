@@ -24,10 +24,8 @@ We are actively seeking self-motivated students to join our team starting in Fal
 
 1. Strong self-motivation, responsible, and reliable (**most important**).
 2. Enthusiasm for building secure, reliable systems and hardware.
-3. Solid foundation in algorithms and data structures.
+3. Solid foundation in algorithms, data structures and computer systems (or architecture).
 4. Proficiency in system or lower-level (verilog, HLS, etc.) programming.
-5. Solid knowledge in system design or computer architecture.
-
 
 **Desirable, but not essential:**
 
