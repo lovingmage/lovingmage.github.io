@@ -18,20 +18,20 @@ Yitong Guo (Ph.D., Fall 2024-)\
 <br />
 
 ### Prospective students 
-We are actively seeking self-motivated students to join our team starting in Fall 2025. Currently, we have two fully funded Ph.D. RA positions available: one focused on **system** research and the other on **hardware architecture**.
+We are actively seeking self-motivated students to join our team starting in Fall 2025. Currently, we have two fully funded Ph.D. RA positions available.
 
 **Key qualities I expect my prospective students:**
 
 1. Strong self-motivation, responsible, and reliable (**most important**).
 2. Enthusiasm for building secure, reliable systems and hardware.
 3. Solid foundation in algorithms, data structures and computer systems (or architecture).
-4. Proficiency in system or lower-level (verilog, HLS, etc.) programming.
+4. Proficiency in programming.
 
 **Desirable, but not essential:**
 
 1. Backgrounds in crypto, differential privacy, MPC, or trusted hardware. 
-2. **System:** Experience in real system design and implementation (especially OS, distributed systems and databases).
-3. **Architecture:** Experience in FPGA prototype implementation.
+2. Experience in real system design and implementation (especially OS, distributed systems and databases).
+3. Experience in FPGA prototype implementation and lower-level programming (e.g., HLS, Verilog).
 4. Industry experience is highly valued.
 
 Prospective students are encouraged to send their CVs, along with a short self-introduction and any pertinent materials, to Chenghong at `cw166 @ iu.edu` Please include **[Prospective Ph.D. Student]** in the tile of your email.
