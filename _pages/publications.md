@@ -12,6 +12,10 @@ nav_order: 1
 
 ### **Conference**
 **2025**
+- **C15**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](#)\
+Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang
+*Usenix Security Symposium* (**Security**), 2025
+
 - **C14**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
 Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo\
 *Very Large Data Bases Conference* (**VLDB**), 2025
