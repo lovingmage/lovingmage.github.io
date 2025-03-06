@@ -16,9 +16,10 @@ nav_order: 1
 Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang\
 *Usenix Security Symposium* (**Security**), 2025
 
+**2024**
 - **C14**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
 Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo\
-*Very Large Data Bases Conference* (**VLDB**), 2025
+*Proceedings of the VLDB Endowment* (**PVLDB**), 2024
 
 **2023**
 - **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#)\
