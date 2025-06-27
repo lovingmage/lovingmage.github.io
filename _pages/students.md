@@ -14,9 +14,9 @@ horizontal: false
 - [Weijie Huang](https://macromogic.xyz/) (with Haixu and XiaoFeng)
 - Jianzhang Du
 - Yitong Guo
-- Leyi Zhao
 - [Haobin Chen](https://hiroki-chen.github.io/) (with Haixu and XiaoFeng)
 - [Hongbo Chen](https://hc50.pages.iu.edu/) (with Haixu and XiaoFeng)
+- Leyi Zhao (Advisor Xuhong Zhang)
 
 ### Alumni
 - [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
