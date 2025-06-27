@@ -12,7 +12,11 @@ nav_order: 1
 
 ### **Conference**
 **2025**
-- **C15**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](#)\
+- **C16**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
+Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu\
+*The International Conference for High Performance Computing, Networking, Storage, and Analysis* (**SC**), 2025
+
+- **C15**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
 Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang\
 *Usenix Security Symposium* (**Security**), 2025
 
@@ -22,7 +26,7 @@ Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo\
 *Proceedings of the VLDB Endowment* (**PVLDB**), 2024
 
 **2023**
-- **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#)\
+- **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://arxiv.org/abs/2309.14331)\
 Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, S. Huang, K. Thorat, T. Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
 *Neural Information Processing Systems* (**NeurIPS 2023**), 2023
 
