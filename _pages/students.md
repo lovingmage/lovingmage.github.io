@@ -8,17 +8,26 @@ nav_order: 2
 horizontal: false
 ---
 
-### Students I am currently working with
-Jianzhang Du (Ph.D., Fall 2024-)\
-Yitong Guo (Ph.D., Fall 2024-)\
-[Haobin Chen](https://hiroki-chen.github.io/) (Ph.D., with XiaoFeng Wang)\
-[Hongbo Chen](https://hc50.pages.iu.edu/) (Ph.D., with XiaoFeng Wang)
+### Current Students
+#### Ph.D. students
+- Duo Xu
+- Weihong Sheng
+- [Weijie Huang](https://macromogic.xyz/) (with Haixu and XiaoFeng)
+- Jianzhang Du
+- Yitong Guo
+- Leyi Zhao
+- [Haobin Chen](https://hiroki-chen.github.io/) (with Haixu and XiaoFeng)
+- [Hongbo Chen](https://hc50.pages.iu.edu/) (with Haixu and XiaoFeng)
 
+#### Alumni
+- [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
+- [Cameron Coy](https://www.linkedin.com/in/cameron-coy/) (B.S., 2027) → Continuing studies at IU
+  
 <br />
 <br />
 
 ### Prospective students 
-We are actively seeking self-motivated students to join our team starting in Fall 2025. Currently, we have two fully funded Ph.D. RA positions available.
+We are actively seeking self-motivated students to join our team. Currently, we have two fully funded Ph.D. RA positions available.
 
 **Key qualities I expect my prospective students:**
 
