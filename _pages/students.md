@@ -8,8 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-### Current Students
-#### Ph.D. students
+### Current students
 - Duo Xu
 - Weihong Sheng
 - [Weijie Huang](https://macromogic.xyz/) (with Haixu and XiaoFeng)
@@ -19,14 +18,14 @@ horizontal: false
 - [Haobin Chen](https://hiroki-chen.github.io/) (with Haixu and XiaoFeng)
 - [Hongbo Chen](https://hc50.pages.iu.edu/) (with Haixu and XiaoFeng)
 
-#### Alumni
+### Alumni
 - [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
 - [Cameron Coy](https://www.linkedin.com/in/cameron-coy/) (B.S., 2027) → Continuing studies at IU
   
 <br />
 <br />
 
-### Prospective students 
+## Prospective students 
 We are actively seeking self-motivated students to join our team. Currently, we have two fully funded Ph.D. RA positions available.
 
 **Key qualities I expect my prospective students:**
