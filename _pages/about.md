@@ -26,7 +26,7 @@ Department of Computer Science\
 {% include social.html %}
 </div>
 
-[Curriculum Vitae (Updated by Jul 2023)](https://drive.google.com/file/d/1CMdeAb2MwziHwk7GUZBaCBY0g55s0w1C/view?usp=drive_link)
+
 
 <b></b>
 
