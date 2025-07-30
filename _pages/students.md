@@ -26,7 +26,7 @@ horizontal: false
 <br />
 
 ## Prospective students 
-We are actively seeking self-motivated students to join our team. Currently, we have two fully funded Ph.D. RA positions available.
+We are actively seeking self-motivated students to join our team. 
 
 **Key qualities I expect my prospective students:**
 
@@ -37,14 +37,10 @@ We are actively seeking self-motivated students to join our team. Currently, we 
 
 **Desirable, but not essential:**
 
-1. Backgrounds in crypto, differential privacy, MPC, or trusted hardware. 
+1. Backgrounds in confidential computing, privacy, etc.
 2. Experience in real system design and implementation (especially OS, distributed systems and databases).
 3. Experience in FPGA prototype implementation and lower-level programming (e.g., HLS, Verilog).
 4. Industry experience is highly valued.
 
 Prospective students are encouraged to send their CVs, along with a short self-introduction and any pertinent materials, to Chenghong at `cw166 @ iu.edu` Please include **[Prospective Ph.D. Student]** in the tile of your email.
-
-**About IU Security & Privacy**
-IU Security & Privacy proudly stands **10th** among all universities in the U.S. and **13th** globally, as ranked by [CSRanking](https://csrankings.org/#/index?sec&us).
-
 
