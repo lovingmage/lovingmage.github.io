@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://lovingmage.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lovingmage.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-30T17:01:33+00:00</updated><id>https://lovingmage.github.io/feed.xml</id><title type="html">Chenghong Wang</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Fully Funded Ph.D. RA Positions Available</title><link href="https://lovingmage.github.io/blog/2024/phd-ra/" rel="alternate" type="text/html" title="Fully Funded Ph.D. RA Positions Available" /><published>2024-10-22T16:53:00+00:00</published><updated>2024-10-22T16:53:00+00:00</updated><id>https://lovingmage.github.io/blog/2024/phd-ra</id><content type="html" xml:base="https://lovingmage.github.io/blog/2024/phd-ra/"><![CDATA[<p>We are actively seeking self-motivated students to join our team starting in Fall 2024. Currently, we have two fully funded Ph.D. RA positions available: one focused on <strong>system</strong> research and the other on <strong>hardware architecture</strong>.</p>
-
-<h4 id="key-qualities-i-expect-my-prospective-students">Key qualities I expect my prospective students:</h4>
-
-<ol>
-  <li>Strong self-motivation, responsible, and reliable (<strong>most important</strong>).</li>
-  <li>Enthusiasm for building secure, reliable systems and hardware.</li>
-  <li>Solid foundation in algorithms and data structures.</li>
-  <li>Proficiency in system or lower-level (verilog, HLS, etc.) programming.</li>
-  <li>Solid knowledge in system design or computer architecture.</li>
-</ol>
-
-<h4 id="desirable-but-not-essential">Desirable, but not essential:</h4>
-
-<ol>
-  <li>Backgrounds in crypto, differential privacy, MPC, or trusted hardware.</li>
-  <li><strong>System:</strong> Experience in real system design and implementation (especially OS, distributed systems and databases).</li>
-  <li><strong>Architecture:</strong> Experience in FPGA prototype implementation.</li>
-  <li>Industry experience is highly valued.</li>
-</ol>
-
-<p>Prospective students are encouraged to send their CVs, along with a short self-introduction and any pertinent materials, to Chenghong at <code class="language-plaintext highlighter-rouge">cw166 @ iu.edu</code> Please include <strong>[Prospective Ph.D. Student]</strong> in the tile of your email.</p>
-
-<h3 id="about-iu-security--privacy">About IU Security &amp; Privacy:</h3>
-<p>IU Security &amp; Privacy proudly stands <strong>10th</strong> among all universities in the U.S. and <strong>13th</strong> globally, as ranked by <a href="https://csrankings.org/#/index?sec&amp;us">CSRanking</a>.</p>]]></content><author><name></name></author><category term="misc" /><category term="general" /><summary type="html"><![CDATA[We are actively seeking self-motivated students to join our team starting in Fall 2024. Currently, we have two fully funded Ph.D. RA positions available: one focused on system research and the other on hardware architecture.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://lovingmage.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lovingmage.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-30T17:02:50+00:00</updated><id>https://lovingmage.github.io/feed.xml</id><title type="html">Chenghong Wang</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle></feed>
