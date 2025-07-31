@@ -33,6 +33,7 @@ Department of Computer Science\
 
 I am an assistant professor in the Department of Computer Science at Indiana University. I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
+## Research
 My research focuses on designing secure-by-design, data-centric AI infrastructures that offer provable security and privacy, enabling a trustworthy foundation for modern AI applications. Some current research projects are:
 
 - **Data infrastructures for trustworthy AI**
