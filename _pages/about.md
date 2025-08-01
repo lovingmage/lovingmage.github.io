@@ -36,8 +36,8 @@ I am an assistant professor in the Department of Computer Science at Indiana Uni
 <span style="color:blue"> **I am looking for Ph.D. students; (ii) Postdocs. If any of my research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/students/)** </span>
 
 <br/>
-<br/>
 
+---
 ### Research
 My research focuses on designing secure-by-design, data-centric AI infrastructures that offer provable security and privacy, enabling a trustworthy foundation for modern AI applications. Some current research projects are:
 
@@ -56,3 +56,18 @@ My research focuses on designing secure-by-design, data-centric AI infrastructur
   - [LinGCN (NeurIPS23)](https://arxiv.org/abs/2309.14331):A framework designed to reduce multiplication depth and optimize the performance of homomorphic encryption based GCN inference.
   - [AQ2PNN (MICRO23)](https://dl.acm.org/doi/10.1145/3613424.3614297): A ultra-fast 2PC-DNN accelerators built on FPGAs.
 
+---
+### Students
+- Duo Xu
+- Weihong Sheng
+- [Weijie Huang](https://macromogic.xyz/) (with Haixu and XiaoFeng)
+- Jianzhang Du
+- Yitong Guo
+- [Haobin Chen](https://hiroki-chen.github.io/) (with Haixu and XiaoFeng)
+- [Hongbo Chen](https://hc50.pages.iu.edu/) (with Haixu and XiaoFeng)
+- Leyi Zhao (Advisor Xuhong Zhang)
+
+#### Alumni
+- [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
+- [Cameron Coy](https://www.linkedin.com/in/cameron-coy/) (B.S., 2027) → Continuing studies at IU
+  
