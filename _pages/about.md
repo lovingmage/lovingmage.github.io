@@ -35,7 +35,6 @@ I am an assistant professor in the Department of Computer Science at Indiana Uni
 
 <span style="color:blue"> **I am looking for Ph.D. students and Postdocs to join our team. If any of my research topics capture your interest, eel free to reach out via email and include your CV.** </span>
 
-<br/>
 
 ---
 ### Research
@@ -67,7 +66,7 @@ My research focuses on designing secure-by-design, data-centric AI infrastructur
 - [Hongbo Chen](https://hc50.pages.iu.edu/) (with Haixu and XiaoFeng)
 - Leyi Zhao (Advisor Xuhong Zhang)
 
-#### Alumni
+**Alumni**
 - [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
 - [Cameron Coy](https://www.linkedin.com/in/cameron-coy/) (B.S., 2027) → Continuing studies at IU
   
