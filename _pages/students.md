@@ -3,7 +3,7 @@ layout: page
 title: Students
 permalink: /students/
 description: 
-nav: true
+nav: false
 nav_order: 2
 horizontal: false
 ---
