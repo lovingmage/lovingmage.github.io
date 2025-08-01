@@ -33,7 +33,10 @@ Department of Computer Science\
 
 I am an assistant professor in the Department of Computer Science at Indiana University. I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
-## Research
+<span style="color:blue"> **I am looking for Ph.D. students; (ii) Postdocs. If any of my research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/students/)** </span>
+
+
+### Research
 My research focuses on designing secure-by-design, data-centric AI infrastructures that offer provable security and privacy, enabling a trustworthy foundation for modern AI applications. Some current research projects are:
 
 - **Data infrastructures for trustworthy AI**
@@ -51,4 +54,3 @@ My research focuses on designing secure-by-design, data-centric AI infrastructur
   - [LinGCN (NeurIPS23)](https://arxiv.org/abs/2309.14331):A framework designed to reduce multiplication depth and optimize the performance of homomorphic encryption based GCN inference.
   - [AQ2PNN (MICRO23)](https://dl.acm.org/doi/10.1145/3613424.3614297): A ultra-fast 2PC-DNN accelerators built on FPGAs.
 
-<span style="color:blue"> **I am looking for (i) Ph.D. students with fully-funded RAs; (ii) Postdocs. If any of the research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/students/)** </span>
