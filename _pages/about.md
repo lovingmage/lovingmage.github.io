@@ -52,8 +52,8 @@ My current research focuses on designing secure-by-design, data-centric AI infra
   - [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong#:~:text=Private%20Proof%2Dof%2DStake%20Blockchains%20using%20Differentially%2DPrivate%20Stake%20Distortion,-Authors%3A&text=Abstract%3A,must%20in%20theory%20forgo%20privacy): Use PAC-based learning tools, such as noisy binary trees and Bayesian learners, to quantify privacy leakages in PoS blockchains.
  
 - Confidential ML accelerators
-  - [LinGCN (NeurIPS23)](https://arxiv.org/abs/2309.14331):A framework designed to reduce multiplication depth and optimize the performance of homomorphic encryption based GCN inference.
-  - [AQ2PNN (MICRO23)](https://dl.acm.org/doi/10.1145/3613424.3614297): A ultra-fast 2PC-DNN accelerators built on FPGAs.
+  - [LinGCN (NeurIPS23)](https://arxiv.org/abs/2309.14331):An accelerator architecture designed to reduce multiplication depth of homomorphic encryption based GCN inference.
+  - [AQ2PNN (MICRO23)](https://dl.acm.org/doi/10.1145/3613424.3614297): An ultra-fast 2PC-DNN accelerator built on FPGAs.
  
 **My research has received generous support from the NSF ([2419821](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2419821&HistoricalAwards=false)), [IU IAS](https://ias.indiana.edu/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), and [AMD](https://www.amd.com/en/corporate/university-program.html)**
 
