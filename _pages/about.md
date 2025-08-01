@@ -33,7 +33,7 @@ Department of Computer Science\
 
 I am an assistant professor in the Department of Computer Science at Indiana University. I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
-<span style="color:blue"> **I am looking for Ph.D. students; (ii) Postdocs. If any of my research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/students/)** </span>
+<span style="color:blue"> **I am looking for Ph.D. students and Postdocs to join our team. If any of my research topics capture your interest, eel free to reach out via email and include your CV.** </span>
 
 <br/>
 
