@@ -54,6 +54,8 @@ My research focuses on designing secure-by-design, data-centric AI infrastructur
 - **Confidential ML accelerators**
   - [LinGCN (NeurIPS23)](https://arxiv.org/abs/2309.14331):A framework designed to reduce multiplication depth and optimize the performance of homomorphic encryption based GCN inference.
   - [AQ2PNN (MICRO23)](https://dl.acm.org/doi/10.1145/3613424.3614297): A ultra-fast 2PC-DNN accelerators built on FPGAs.
+ 
+**My research has received generous support from the NSF ([2530705](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2530705&HistoricalAwards=false)), [IU IAS](https://ias.indiana.edu/), [Intel](https://www.intel.com/content/www/us/en/homepage.html), and [AMD](https://www.amd.com/en/corporate/university-program.html)**
 
 ---
 ### Students
