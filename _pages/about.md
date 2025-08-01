@@ -35,6 +35,8 @@ I am an assistant professor in the Department of Computer Science at Indiana Uni
 
 <span style="color:blue"> **I am looking for Ph.D. students; (ii) Postdocs. If any of my research topics capture your interest, feel free to drop me an email. More details can be found [here](https://www.lovingmage.com/students/)** </span>
 
+<br/>
+<br/>
 
 ### Research
 My research focuses on designing secure-by-design, data-centric AI infrastructures that offer provable security and privacy, enabling a trustworthy foundation for modern AI applications. Some current research projects are:
