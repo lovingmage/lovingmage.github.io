@@ -49,7 +49,7 @@ My current research focuses on designing secure-by-design, data-centric AI infra
 
 - Learning-augumented private algorithms
   - [DPidx](https://arxiv.org/abs/2410.21164): The first private learned index for secure outsourced databases and private data federations.
-  - [Security23](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong#:~:text=Private%20Proof%2Dof%2DStake%20Blockchains%20using%20Differentially%2DPrivate%20Stake%20Distortion,-Authors%3A&text=Abstract%3A,must%20in%20theory%20forgo%20privacy): Use PAC-based learning tools, such as noisy binary trees and Bayesian learners, to quantify privacy leakages in PoS blockchains.
+  - [Private PoS (Security23)](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong#:~:text=Private%20Proof%2Dof%2DStake%20Blockchains%20using%20Differentially%2DPrivate%20Stake%20Distortion,-Authors%3A&text=Abstract%3A,must%20in%20theory%20forgo%20privacy): Use PAC-based learning tools, such as noisy binary trees and Bayesian learners, to quantify privacy leakages in PoS blockchains.
  
 - Confidential ML accelerators
   - [LinGCN (NeurIPS23)](https://arxiv.org/abs/2309.14331):An accelerator architecture designed to reduce multiplication depth of homomorphic encryption based GCN inference.
