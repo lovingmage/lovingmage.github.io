@@ -38,7 +38,7 @@ I am an assistant professor in the Department of Computer Science at Indiana Uni
 
 ---
 ### Research
-My current research focuses on designing secure-by-design, data-centric AI infrastructures that offer provable security and privacy, enabling a trustworthy foundation for modern AI applications. Some current research projects are:
+My current research focuses on trustworthy, data-centric AI infrastructures. Some current research projects are:
 
 - Data infrastructures for trustworthy AI
   - [ParsecDB (On-going)](https://github.com/uu60/parsec): A highly efficient, full-fledged secure outsourced database that enables critical domain organizations to offload private data to the public cloud for analytics and ML ETL pipelines.
