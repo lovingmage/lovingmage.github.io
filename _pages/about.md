@@ -62,7 +62,7 @@ My current research focuses on trustworthy, data-centric AI infrastructures. Som
 
 **Ph.D**
 - Duo Xu
-- Weihong Sheng
+- [Weihong Sheng](https://swh256.github.io/)
 - [Weijie Huang](https://macromogic.xyz/) (with Haixu and XiaoFeng)
 - Jianzhang Du
 - Yitong Guo
