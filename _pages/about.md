@@ -42,7 +42,7 @@ My current research focuses on trustworthy, data-centric AI infrastructures. Som
 
 - Data infrastructures for trustworthy AI
   - [ParsecDB (On-going)](https://github.com/uu60/parsec): A highly efficient, full-fledged secure outsourced database that enables critical domain organizations to offload private data to the public cloud for analytics and ML ETL pipelines.
-  - [BOLT (On-going)](#): A high-performance, secure, and data-oblivious KVS accelerator (the foundation for secure retrieval-based AI).
+  - [BOLT (CCS25)](#): A high-performance, secure, and data-oblivious KVS accelerator (the foundation for secure retrieval-based AI).
   - [Picachv (Security25)](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin): A novel security monitor that formally and automatically enforces data use policies within data analytics and ML data pipelines.
   - [DPAR (SC25)](#): Private collective-communication AllReduce primitives for HPC-scale ML.
   - [SPECIAL (VLDB24)](https://dl.acm.org/doi/10.14778/3717755.3717764): The first secure workload planner designed for complex analytics over private data federations.
