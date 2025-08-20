@@ -19,7 +19,7 @@ Yitong Guo, Hongbo Chen, Haobin Chen, Yukui Luo, XiaoFeng Wang, Chenghong Wang\
 
 - **C16**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
 Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu\
-*The International Conference for High Performance Computing, Networking, Storage, and Analysis* (**SC**), 2025
+*Supercomputing* (**SC**), 2025
 
 - **C15**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
 Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang\
