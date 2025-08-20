@@ -12,23 +12,20 @@ nav_order: 1
 
 ### **Conference**
 **2025**
-- **C17**. [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by
+- **CCS25**. [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by
 Secure HBM Accelerators](#)\
 Yitong Guo, Hongbo Chen, Haobin Chen, Yukui Luo, XiaoFeng Wang, Chenghong Wang\
-*The ACM Conference on Computer and Communications Security* (**CCS**), 2025
 
-- **C16**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
+- **SC25**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
 Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu\
 *Supercomputing* (**SC**), 2025
 
-- **C15**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
+- **Security25**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
 Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang\
-*Usenix Security Symposium* (**Security**), 2025
 
 **2024**
-- **C14**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
+- **VLDB24**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
 Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo\
-*Proceedings of the VLDB Endowment* (**PVLDB**), 2024
 
 **2023**
 - **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://arxiv.org/abs/2309.14331)\
