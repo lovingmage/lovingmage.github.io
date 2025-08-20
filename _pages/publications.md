@@ -12,6 +12,11 @@ nav_order: 1
 
 ### **Conference**
 **2025**
+- **C17**. [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by
+Secure HBM Accelerators](#)\
+Yitong Guo, Hongbo Chen, Haobin Chen, Yukui Luo, XiaoFeng Wang, Chenghong Wang\
+*The ACM Conference on Computer and Communications Security* (**CCS**), 2025
+
 - **C16**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
 Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu\
 *The International Conference for High Performance Computing, Networking, Storage, and Analysis* (**SC**), 2025
