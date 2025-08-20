@@ -12,15 +12,15 @@ nav_order: 1
 
 ### **Conference**
 **2025**
-- **CCS25**. [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by
+- **[CCS'25]**. [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by
 Secure HBM Accelerators](#)\
 Yitong Guo, Hongbo Chen, Haobin Chen, Yukui Luo, XiaoFeng Wang, Chenghong Wang\
 
-- **SC25**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
+- **[SC'25]**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
 Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu\
 *Supercomputing* (**SC**), 2025
 
-- **Security25**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
+- **[Security'25]**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
 Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang\
 
 **2024**
