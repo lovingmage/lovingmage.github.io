@@ -13,76 +13,62 @@ nav_order: 1
 ### **Conference**
 **2025**
 - **[CCS'25]**. [BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by
-Secure HBM Accelerators](#)\
-Yitong Guo, Hongbo Chen, Haobin Chen, Yukui Luo, XiaoFeng Wang, Chenghong Wang\
+Secure HBM Accelerators](#)
+Yitong Guo, Hongbo Chen, Haobin Chen, Yukui Luo, XiaoFeng Wang, Chenghong Wang
 
 - **[SC'25]**. [DPAR: High-Performance, Secure, and Scalable Differential Privacy-based AllReduce](#)\
-Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu\
-*Supercomputing* (**SC**), 2025
+Hao Qi, Weicong Chen, Chenghong Wang, Xiaoyi Lu
 
 - **[Security'25]**. [PICACHV: Formally Verified Enforcement for Data in Use Policies for Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)\
-Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang\
+Haobin Chen, Hongbo Chen, Mingshen Sun, Chenghong Wang, XiaoFeng Wang
 
 **2024**
-- **VLDB24**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
-Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo\
+- **[VLDB'24]**. [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
+Chenghong Wang, Lina Qiu, Johes Bater, Yukui Luo
 
 **2023**
-- **C13**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://arxiv.org/abs/2309.14331)\
-Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, S. Huang, K. Thorat, T. Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
-*Neural Information Processing Systems* (**NeurIPS 2023**), 2023
+- **[NeurIPS'23]**. [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://arxiv.org/abs/2309.14331)\
+Hongwu Peng, Ran Ran, Yukui Luo, Jiahui Zhao, S. Huang, K. Thorat, T. Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding
 
-- **C12**. [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
-Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala\
-*Usenix Security Symposium* (**Security**), 2023
+- **[Security'23]**. [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787)\
+Chenghong Wang, David Pujol, Kartik Nayak, Ashwin Machanavajjhala
 
-- **C11**. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)\
-Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu\
-*International Symposium on Microarchitecture* (**MICRO**), 2023
+- **[MICRO'23]**. [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)\
+Yukui Luo, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu
   
-- **C10**. [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#)\
-Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tong Geng, Kaleel Mahmood , Wujie Wen, Xiaolin Xu, Caiwen Ding\
-*International Conference on Computer Vision* (**ICCV**), 2023
+- **[ICCV'23]**. [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#)\
+Hongwu Peng, Shaoyi Huang, Tong Zhou, Yukui Luo, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tong Geng, Kaleel Mahmood , Wujie Wen, Xiaolin Xu, Caiwen Ding
 
-- **C9**. [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513.pdf)\
-Hongwu Peng, Shanglin Zhou, Yukui Luo, Nuo Xu, Shijin Duan, Ran Ran, Jiahui Zhao, Chenghong Wang, Tong Geng, Wujie Wen, Xiaolin Xu, Caiwen Ding\
-*Design Automation Conference* (**DAC**), 2023
+- **[DAC'23]**. [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://arxiv.org/pdf/2306.15513.pdf)\
+Hongwu Peng, Shanglin Zhou, Yukui Luo, Nuo Xu, Shijin Duan, Ran Ran, Jiahui Zhao, Chenghong Wang, Tong Geng, Wujie Wen, Xiaolin Xu, Caiwen Ding
 
 **2022**
-- **C8**. [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://arxiv.org/abs/2203.05084)\
-Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala\
-*International Conference on Management of Data* (**SIGMOD**), 2022
+- **[SIGMOD'22]**. [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://arxiv.org/abs/2203.05084)\
+Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala
 
 **2021**
-- **C7**. [DP-Sync: Hiding Update Patterns in Secure Outsourced Databases with Differential Privacy](https://arxiv.org/abs/2103.15942)\
-Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala\
-*International Conference on Management of Data* (**SIGMOD**), 2021
+- **[SIGMOD'21]**. [DP-Sync: Hiding Update Patterns in Secure Outsourced Databases with Differential Privacy](https://arxiv.org/abs/2103.15942)\
+Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala
 
-- **C6**. [Tag: Gradient Attack on Transformer-based Language Models](https://aclanthology.org/2021.findings-emnlp.305.pdf)\
-Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran, Caiwen Ding\
-*Empirical Methods in Natural Language Processing* (**EMNLP**), 2021
+- **[EMNLP'21]**. [Tag: Gradient Attack on Transformer-based Language Models](https://aclanthology.org/2021.findings-emnlp.305.pdf)\
+Jieren Deng, Yijue Wang, Ji Li, Chenghong Wang, Chao Shang, Hang Liu, Sanguthevar Rajasekaran, Caiwen Ding
 
-- **C5**. [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606)\
-Chenghong Wang+, Jieren Deng+, Xianrui Meng, Yijue Wang, Ji Li, Sheng Lin, Shuo Han, Fei Miao, S. Rajasekaran, C. Ding\
-*Empirical Methods in Natural Language Processing* (**EMNLP Oral**), 2021
+- **[EMNLP'21]**. [A Secure and Efficient Federated Learning Framework for NLP](https://aclanthology.org/2021.emnlp-main.606)\
+Chenghong Wang+, Jieren Deng+, Xianrui Meng, Yijue Wang, Ji Li, Sheng Lin, Shuo Han, Fei Miao, S. Rajasekaran, C. Ding
 
-- **C4**. [Against Membership Inference Attack: Pruning is All You Need](https://arxiv.org/abs/2008.13578)\
-Yijue Wang, Chenghong Wang, Zigeng Wang, Shanglin Zhou, Hang Liu, Jinbo Bi, Caiwen Ding, Sanguthevar Rajasekaran\
-*International Joint Conferences on Artificial Intelligence* (**IJCAI**), 2021 
+- **[IJCAI'21]**. [Against Membership Inference Attack: Pruning is All You Need](https://arxiv.org/abs/2008.13578)\
+Yijue Wang, Chenghong Wang, Zigeng Wang, Shanglin Zhou, Hang Liu, Jinbo Bi, Caiwen Ding, Sanguthevar Rajasekaran
 
 **2020**
-- **C3**. [Crypt$\epsilon$:Crypto-Assisted Differential Privacy on Untrusted Servers](https://dl.acm.org/doi/10.1145/3318464.3380596)\
-Amrita Chowdhury, Chenghong Wang, Xi He, Ashwin Machanavajjhala, Somesh Jha\
-*International Conference on Management of Data* (**SIGMOD**), 2020
+- **[SIGMOD'20]**. [Crypt$\epsilon$:Crypto-Assisted Differential Privacy on Untrusted Servers](https://dl.acm.org/doi/10.1145/3318464.3380596)\
+Amrita Chowdhury, Chenghong Wang, Xi He, Ashwin Machanavajjhala, Somesh Jha
 
 **Before 2018**
-- **C2**.  [Privacy-preserving Biomedical Data Dissemination via a Hybrid Approach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371369/)\
-Chenghong Wang+, Yichen Jiang+, Zhixuan Wu, Xin Du, Shuang Wang\
-*American Medical Informatics Association* (**AMIA**), 2018
+- **[AMIA'18]**.  [Privacy-preserving Biomedical Data Dissemination via a Hybrid Approach](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6371369/)\
+Chenghong Wang+, Yichen Jiang+, Zhixuan Wu, Xin Du, Shuang Wang
 
-- **C1**. [The k-peak decomposition: Mapping the Global Structure of Graphs](https://dl.acm.org/doi/10.1145/3038912.3052635)\
-Priya Govindan, Chenghong Wang, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan\
-*The Web Conference* (**WWW**), 2017
+- **[WWW'17]**. [The k-peak decomposition: Mapping the Global Structure of Graphs](https://dl.acm.org/doi/10.1145/3038912.3052635)\
+Priya Govindan, Chenghong Wang, Chumeng Xu, Hongyu Duan, Sucheta Soundarajan
 
 <br>
 
