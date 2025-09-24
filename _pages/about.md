@@ -33,7 +33,7 @@ Department of Computer Science\
 
 I am an Assistant Professor in the Department of Computer Science at Indiana University. I currently serve as the co-PI of the NSF Center for Distributed Confidential Computing ([CDCC](https://www.nsf-cdcc.org/)). I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
-<span style="color:blue"> **I am looking for Ph.D. students and Postdocs to join our team and contribute to research on *ML accelerators and accelerator TEEs*. If you are interested in architecture research and developing new hardware designs, please drop me an email.** </span>
+<span style="color:blue"> **I am looking for Ph.D. students to join our team and contribute to confidential computing research in both system and architecture. Please drop me an email if you're interested** </span>
 
 ---
 ### Research
