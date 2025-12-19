@@ -70,10 +70,9 @@ My prior research focuses on the synergy of multi-party comptuation (MPC) and di
 - Jianzhang Du
 - Yitong Guo
 - [Haobin Chen](https://hiroki-chen.github.io/) (with Haixu and XiaoFeng)
-- [Hongbo Chen](https://hc50.pages.iu.edu/) (with Haixu and XiaoFeng)
 - Leyi Zhao (Advisor Xuhong Zhang)
 
 **Alumni**
+- [Hongbo Chen](https://hc50.pages.iu.edu/) (Ph.D., 2026, with XiaoFeng and Haixu) → Google DeepMind
 - [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
 - [Cameron Coy](https://www.linkedin.com/in/cameron-coy/) (B.S., 2027) → Continuing studies at IU
-  
