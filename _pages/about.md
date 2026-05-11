@@ -33,17 +33,17 @@ Department of Computer Science\
 
 I am an Assistant Professor in the Department of Computer Science at Indiana University. I currently serve as the co-PI of the NSF Center for Distributed Confidential Computing ([CDCC](https://www.nsf-cdcc.org/)). I am also affiliated with Luddy’s Security & Privacy in Informatics, Computing, and Engineering ([SPICE](https://spice.luddy.indiana.edu/)) Center. I received my Ph.D. in Computer Science from Duke University under the supervision of [Ashwin Machanavajjhala](https://users.cs.duke.edu/~ashwin/) and [Kartik Nayak](https://users.cs.duke.edu/~kartik/).
 
-<span style="color:blue"> **I am looking for Ph.D. students to join our team and contribute to confidential computing research in both system and architecture. Please drop me an email if you're interested** </span>
+<span style="color:blue"> **I am looking for Ph.D. students and Postdocs to join our team and contribute to confidential computing research in both system and architecture. Please drop me an email if you're interested** </span>
 
 ---
 ### Research
 My current research focuses on trustworthy, data-centric AI infrastructures. Some current research projects are:
 
 - Private Data systems
-  - [ParsecDB (On-going)](https://github.com/uu60/parsec): A highly efficient, full-fledged secure multi-party database for confidential analytics and ETL pipelines.
+  - [ParsecDB (On-going)](https://github.com/uu60/parsec): A highly efficient, full-fledged secure multi-party database for confidential analytics.
   - [DPAR (SC25)](https://sc25.conference-program.com/presentation/?id=pap458&sess=sess296): A drop-in Message Passing Interface (MPI) AllReduce replacement that provides strong privacy with minimal performance cost.
-  - [SPECIAL (VLDB24)](https://dl.acm.org/doi/10.14778/3717755.3717764): The first secure workload planner designed for complex analytics over private data federations.
-  - [DPidx](https://arxiv.org/abs/2410.21164): The first private learned index for encrypted federations.
+  - [SPECIAL (VLDB24)](https://dl.acm.org/doi/10.14778/3717755.3717764): The first secure workload planner for complex analytics over private data federations.
+  - [DPidx](https://arxiv.org/abs/2410.21164): Private learned indexes for encrypted federations.
   - [Private PoS (Security23)](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-chenghong#:~:text=Private%20Proof%2Dof%2DStake%20Blockchains%20using%20Differentially%2DPrivate%20Stake%20Distortion,-Authors%3A&text=Abstract%3A,must%20in%20theory%20forgo%20privacy): Use PAC-based learning tools, such as noisy binary trees and Bayesian learners, to quantify privacy leakages in PoS blockchains.
 
 - Formal methods for data governance
@@ -64,15 +64,16 @@ My prior research focuses on the synergy of multi-party comptuation (MPC) and di
 ### Students
 
 **Ph.D**
+- Jianjun Lang (with Haixu and XiaoFeng)
 - Duo Xu
 - [Weihong Sheng](https://swh256.github.io/)
 - [Weijie Huang](https://macromogic.xyz/) (with Haixu and XiaoFeng)
 - Jianzhang Du
-- Yitong Guo
 - [Haobin Chen](https://hiroki-chen.github.io/) (with Haixu and XiaoFeng)
 - Leyi Zhao (Advisor Xuhong Zhang)
 
 **Alumni**
+- Yitong Guo
 - [Hongbo Chen](https://hc50.pages.iu.edu/) (Ph.D., 2026, with XiaoFeng and Haixu) → Google DeepMind
 - [Matt Pan](https://www.linkedin.com/in/matt-pan/) (B.S., 2025) → Deloitte
 - [Cameron Coy](https://www.linkedin.com/in/cameron-coy/) (B.S., 2027) → Continuing studies at IU
